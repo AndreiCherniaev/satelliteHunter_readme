@@ -12,4 +12,5 @@ The source code (arduino) for the device. Which allows you to point an amateur a
 ![functional diagram](https://github.com/NSV47/satelliteHunter/blob/main/functional%20diagram.svg)
 ## Photo of the finished device
 ![Photo of the finished device](https://github.com/NSV47/satelliteHunter/blob/main/SH10.jpg)
-
+## Full description
+This is [full description](https://habr.com/ru/articles/732300/) (in russian)
